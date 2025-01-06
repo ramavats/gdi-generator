@@ -1,7 +1,7 @@
 # GDI-Generator
 Google Drive Index Generator for Cloudflare workers.
 
-![[image.png]]
+![](image.png)
 
 ## Step 1:
 Go to this URL : https://generate.cloudflare-us.workers.dev/
